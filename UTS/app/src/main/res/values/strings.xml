@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS - Fantasy Novels</string>
+    <string name="novel_name">Nama Novel</string>
+    <string name="novel_date">Tanggal Terbit</string>
+    <string name="novel_author">Pengarang</string>
+    <string name="rating">Rating</string>
+    <string name="description">Deksripsi</string>
+</resources>
